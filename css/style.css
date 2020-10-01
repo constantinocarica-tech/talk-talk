@@ -1,0 +1,219 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;  
+   background: url( img/martking.png);
+   background-repeat: no-repeat;
+   background-size: 60%;
+
+}
+
+.link{
+    text-decoration: none;
+   
+   color:rgb(248, 248, 248);
+}
+.menu{
+    display: block;
+}
+ul{
+    list-style: none;
+  text-transform: uppercase;
+  position: absolute;
+  top: 0;
+  left: 40px;
+   
+}
+li.li1{
+    display: inline-block;
+    background-color: #4d4dd4 ;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 3px;
+
+    
+}
+li.li1:hover{
+  background-color: #3f3d56;
+  transition: 0.6s;
+}
+.btns{
+float: right;
+margin-right: 14px;
+padding: 8px;
+top: 0;
+  left: 1100px;
+   position: absolute;
+   padding-top: 30px;
+}
+.btn1{
+background-color: #3f3d56;
+padding: 10px;
+border-radius: 7px;
+color: antiquewhite;
+
+}
+.btn1:hover{
+  background-color: #4d4dd4; 
+  transition: 0.7s;
+}
+.btn2{
+background-color: #4d4dd4;
+padding: 10px;
+border-radius: 7px;
+color: antiquewhite;
+}
+.btn2:hover{
+  background-color:#3f3d56 ;
+}
+a{
+    text-decoration: none;
+}
+.info{
+    margin-top: 800px;
+}
+.contact{
+    width: 300px;
+    height: 400px;
+    box-shadow: 4px 4px 4px 2px #CCCC;
+    border-radius: 10px;
+   margin-left: 160px;
+}
+p{
+    line-height: 20px;
+    letter-spacing: 2px;
+    margin-left: 5px;
+}
+h1{
+    margin-left: 500px;
+    padding: 20px;
+    border-bottom: 2px solid #4d4dd4;
+    width: 270px;
+
+    
+}
+.work{
+ width: 300px;
+    height: 400px;
+    box-shadow: 4px 4px 4px 2px #CCCC;
+    border-radius: 10px;
+   margin-left:550px;
+  
+   margin-top: -420px;
+
+  
+}
+h2{
+    margin-left:40px; 
+}
+.junta{
+    margin-top: 200px;
+}
+
+}
+input{
+    padding: 20px;
+    border: 1px solid #CCCC;
+}
+.tec{
+  width: 300px;
+    height: 400px;
+    box-shadow: 4px 4px 4px 2px #CCCC;
+    border-radius: 10px;
+   margin-left: 930px;
+    margin-top: -420px;
+
+}
+h3{
+  margin-left:500px;
+  font-weight: bold;
+  font-size: 35px;
+  border-bottom: 2px solid #4d4dd4;
+  width: 220px;
+  color: #3f3d56;
+}
+.logia{
+  padding-top: 50px;
+}
+.h3{
+  margin-left: 300px;
+  font-size: 20px;
+
+  
+}
+.img2{
+ width: 400px;
+ height: 390px;
+ box-shadow: 4px 4px 4px 4px #ccc;
+ border-radius: 20px;
+ margin-left: 100px;
+}
+.img3{
+width: 400px;
+ height: 390px;
+ box-shadow: 4px 4px 4px 4px #ccc;
+ border-radius: 20px;
+ margin-right: 100px;
+ float: right;
+ margin-top: -390px;
+
+}
+.ultimo{
+ 
+ background: linear-gradient(#3f3d56 ,#3f3d56  );
+ 
+  height: 400px;
+  padding-top: 40px;
+  margin-top: 100px;
+  width: 100%;
+ 
+
+ }
+input[type="email"]{
+ width: 500px;
+ height: 40px;
+ font-size: 16px;
+ margin-right:  8px;
+ margin-top: 78px;
+ border-radius: 5px;
+}
+input{
+  margin-left:  400px;
+}
+button{
+  width: 86px;
+  height: 44px;
+  background-color: #4d4dd4;
+  color: antiquewhite;
+ border:none;
+ border-radius: 5px;
+}
+button:hover{
+  background-color: #f9a826;
+  transition: 0.6s;
+}
+.rodape{
+   margin-left: 300px;
+  font-size: 20px;
+}
+img.p1:hover{
+      transition: box-shadow  0.7s;
+    background-color: rgba(255,255,255,0.8);
+      transition: 0.7s;
+    transform:  scale(1.2);
+  transition: 0.7s  ease-in;
+  border-radius: 4px;
+
+}
+img.p1{
+  transition: 0.7s;
+    transition: 0.7s  ease-out;
+}
+li.li2{
+  display: inline-block;
+  margin-left: 200px;
+}
+h4{
+  color: #FFF;
+  ;
+}
+
